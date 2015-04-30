@@ -69,7 +69,22 @@ body {
                                       /* offset horizontal: half of image width and text area width */
     }
 }
+.div1 {
+height:300px; 
+width: 1350px;
+border:solid red;
+float: left;
+position: relative;
+}
+.div2{
+border:solid red;
+height: 300px;
+width: 700px;
 
+}
+
+
+}
 h1 {
     font-size:24px;
     font-weight:normal;
