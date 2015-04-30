@@ -54,9 +54,9 @@
 
     <!-- Define app icon for each platform. -->
     <icon src="logo3.png" />
-    <icon src="res/icon/android/logo2.png"   gap:platform="android"    gap:density="ldpi" />
-    <icon src="res/icon/android/logo3.png"   gap:platform="android"    gap:density="mdpi" />
-    <icon src="res/icon/android/logo3.png"   gap:platform="android"    gap:density="hdpi" />
+    <icon src="res/icon/android/logo.png"   gap:platform="android"    gap:density="ldpi" />
+    <icon src="res/icon/android/logo.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="res/icon/android/logo.png"   gap:platform="android"    gap:density="hdpi" />
     <icon src="res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" />
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" gap:state="hover"/>
